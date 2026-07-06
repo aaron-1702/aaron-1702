@@ -82,13 +82,13 @@ A command-line Python tool that enables downloading of videos and music from You
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaron-1702&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aaron-1702&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&cache_seconds=86400" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-1702&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-1702&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6&cache_seconds=86400" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaron-1702&theme=midnight-purple&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=aaron-1702&theme=midnight-purple&hide_border=true" />
 </p>
 
 ---
