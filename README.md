@@ -3,8 +3,16 @@
 </p>
 
 <p align="center">
+  <a href="https://instagram.com/_aaron1702">
+    <img src="https://img.shields.io/badge/Instagram-@_aaron1702-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="mailto:aaron.thamm1702@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-aaron.thamm1702%40gmail.com-6C3483?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://aaron-1702-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Vercel-6C3483?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Rostock%2C%20Germany-5B2C6F?style=for-the-badge&logo=googlemaps&logoColor=white" />
@@ -25,6 +33,7 @@ I am Aaron Thamm, a 6th-semester student of **Informationstechnik / Technische I
 - 📍 Rostock, Germany
 - 🛠️ Building web apps and Python tools in my free time
 - 📬 Reach me at [aaron.thamm1702@gmail.com](mailto:aaron.thamm1702@gmail.com)
+- 🌐 **Portfolio:** [aaron-1702-portfolio.vercel.app](https://aaron-1702-portfolio.vercel.app)
 
 ---
 
