@@ -108,7 +108,7 @@ A command-line Python tool that enables downloading of videos and music from You
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aaron-1702&theme=react-dark&bg_color=0d0d0d&color=9B59B6&line=6C3483&point=D7BDE2&hide_border=true" />
+  <img src="https://github-readme-activity-graph-psi-lilac.vercel.app/graph?username=aaron-1702&theme=react-dark&bg_color=0d0d0d&color=9B59B6&line=6C3483&point=D7BDE2&hide_border=true" />
 </p>
 
 ---
