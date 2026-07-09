@@ -14,7 +14,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1800&color=9B59B6&center=true&vCenter=true&width=700&lines=Building+Useful+Software;Learning+Every+Day;Open+Source+Projects;Python+&+JavaScript" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=2000&color=9B59B6&center=true&vCenter=true&width=850&lines=B.Sc.+Informationstechnik+%2F+Technische+Informatik;University+of+Rostock;Building+Web+Applications+and+Python+Tools" alt="Typing SVG" />
 </p>
 
 ## About Me
