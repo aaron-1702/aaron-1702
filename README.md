@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/_aaron1702">
+  <a href="https://instagram.com/_aaron1702" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-@_aaron1702-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:aaron.thamm1702@gmail.com">
+  <a href="mailto:aaron.thamm1702@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-aaron.thamm1702%40gmail.com-6C3483?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://aaron-1702-portfolio.vercel.app" target="_blank">
+  <a href="https://aaron-1702-portfolio.vercel.app" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-Vercel-6C3483?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
