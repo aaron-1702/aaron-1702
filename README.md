@@ -13,6 +13,7 @@
 </p>
 
 ---
+![Typing SVG](https://demolab.com?)
 
 ## About Me
 
