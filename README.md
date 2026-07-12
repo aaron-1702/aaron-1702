@@ -15,6 +15,12 @@
     <img src="https://img.shields.io/badge/Portfolio-Vercel-6C3483?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
+  
+  <a href="https://leetcode.com/aaron1702/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LeetCode-aaron1702-6C3483?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  &nbsp;
+  
   <img src="https://img.shields.io/badge/Location-Rostock%2C%20Germany-5B2C6F?style=for-the-badge&logo=googlemaps&logoColor=white" />
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=aaron-1702&style=for-the-badge&color=6C3483&label=PROFILE+VIEWS" />
