@@ -42,7 +42,7 @@ I am Aaron Thamm, a 6th-semester student of **Informationstechnik / Technische I
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,linux,ubuntu,windows,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,linux,ubuntu,windows,git,github,vscode,arduino,raspberrypi" />
 </p>
 
 | Category | Technologies |
